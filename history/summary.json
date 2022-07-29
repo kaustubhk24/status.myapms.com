@@ -4,19 +4,19 @@
     "url": "https://dev.myapms.com",
     "icon": "https://favicons.githubusercontent.com/dev.myapms.com",
     "slug": "developer-site",
-    "status": "down",
-    "uptime": "92.86%",
-    "uptimeDay": "92.07%",
-    "uptimeWeek": "92.86%",
-    "uptimeMonth": "92.86%",
-    "uptimeYear": "92.86%",
-    "time": 793,
-    "timeDay": 766,
-    "timeWeek": 793,
-    "timeMonth": 793,
-    "timeYear": 793,
+    "status": "up",
+    "uptime": "72.14%",
+    "uptimeDay": "60.19%",
+    "uptimeWeek": "72.14%",
+    "uptimeMonth": "72.14%",
+    "uptimeYear": "72.14%",
+    "time": 738,
+    "timeDay": 698,
+    "timeWeek": 738,
+    "timeMonth": 738,
+    "timeYear": 738,
     "dailyMinutesDown": {
-      "2022-07-29": 114
+      "2022-07-29": 573
     }
   },
   {
