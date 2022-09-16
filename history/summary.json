@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.20%",
-    "time": 793,
-    "timeDay": 4256,
-    "timeWeek": 1291,
-    "timeMonth": 845,
-    "timeYear": 793,
+    "time": 792,
+    "timeDay": 723,
+    "timeWeek": 1278,
+    "timeMonth": 847,
+    "timeYear": 792,
     "dailyMinutesDown": {
       "2022-07-29": 573
     }
@@ -25,18 +25,16 @@
     "icon": "https://favicons.githubusercontent.com/docs.myapms.com",
     "slug": "documentation-site",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 147,
-    "timeDay": 182,
-    "timeWeek": 160,
+    "timeDay": 192,
+    "timeWeek": 171,
     "timeMonth": 153,
     "timeYear": 147,
-    "dailyMinutesDown": {
-      "2022-09-15": 12
-    }
+    "dailyMinutesDown": {}
   }
 ]
