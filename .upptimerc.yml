@@ -7,6 +7,8 @@ sites:
     url: https://dev.myapms.com
   - name: Documentation Site
     url: https://docs.myapms.com
+  - name: Instance 81946
+    url: https://dev81946.service-now.com/
 
 
 status-website:
