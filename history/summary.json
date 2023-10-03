@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-03": 126,
+      "2023-10-03": 147,
       "2023-10-02": 1440,
       "2023-10-01": 1440,
       "2023-09-30": 1440,
@@ -388,19 +388,19 @@
     "url": "https://docs.myapms.com",
     "icon": "https://icons.duckduckgo.com/ip3/docs.myapms.com.ico",
     "slug": "documentation-site",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.56%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 167,
-    "timeDay": 101,
-    "timeWeek": 136,
+    "timeDay": 124,
+    "timeWeek": 140,
     "timeMonth": 149,
     "timeYear": 170,
     "dailyMinutesDown": {
-      "2023-10-03": 0
+      "2023-10-03": 21
     }
   },
   {
@@ -420,7 +420,7 @@
     "timeMonth": 900,
     "timeYear": 507,
     "dailyMinutesDown": {
-      "2023-10-03": 126,
+      "2023-10-03": 147,
       "2023-10-02": 1440,
       "2023-10-01": 1440,
       "2023-09-30": 1440,
