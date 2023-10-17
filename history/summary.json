@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-16": 1338,
+      "2023-10-17": 47,
+      "2023-10-16": 1440,
       "2023-10-15": 1440,
       "2023-10-14": 1440,
       "2023-10-13": 1440,
@@ -379,8 +380,7 @@
       "2022-10-21": 1440,
       "2022-10-20": 1440,
       "2022-10-19": 1440,
-      "2022-10-18": 1440,
-      "2022-10-17": 1440
+      "2022-10-18": 1440
     }
   },
   {
@@ -396,8 +396,8 @@
     "uptimeYear": "100.00%",
     "time": 165,
     "timeDay": 148,
-    "timeWeek": 101,
-    "timeMonth": 136,
+    "timeWeek": 105,
+    "timeMonth": 139,
     "timeYear": 168,
     "dailyMinutesDown": {
       "2023-10-03": 21
@@ -409,18 +409,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev81946.service-now.com.ico",
     "slug": "instance-81946",
     "status": "down",
-    "uptime": "55.29%",
+    "uptime": "55.26%",
     "uptimeDay": "62.28%",
     "uptimeWeek": "42.02%",
     "uptimeMonth": "18.57%",
-    "uptimeYear": "55.29%",
+    "uptimeYear": "55.26%",
     "time": 522,
     "timeDay": 555,
     "timeWeek": 1012,
     "timeMonth": 1066,
     "timeYear": 522,
     "dailyMinutesDown": {
-      "2023-10-16": 441,
+      "2023-10-17": 47,
+      "2023-10-16": 544,
       "2023-10-15": 1440,
       "2023-10-14": 1440,
       "2023-10-13": 91,
