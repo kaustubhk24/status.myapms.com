@@ -1,7 +1,7 @@
 url: https://dev81946.service-now.com/
-status: up
-code: 200
-responseTime: 666
-lastUpdated: 2024-03-05T11:12:36.687Z
+status: down
+code: 503
+responseTime: 484
+lastUpdated: 2024-03-05T12:18:08.259Z
 startTime: 2023-02-18T06:28:04.000Z
 generator: Upptime <https://github.com/upptime/upptime>
