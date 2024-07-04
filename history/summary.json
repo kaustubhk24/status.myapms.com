@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev.myapms.com.ico",
     "slug": "developer-site",
     "status": "up",
-    "uptime": "22.29%",
+    "uptime": "22.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "24.79%",
-    "time": 777,
-    "timeDay": 823,
-    "timeWeek": 763,
-    "timeMonth": 760,
-    "timeYear": 777,
+    "uptimeYear": "25.06%",
+    "time": 778,
+    "timeDay": 953,
+    "timeWeek": 789,
+    "timeMonth": 764,
+    "timeYear": 778,
     "dailyMinutesDown": {
       "2024-06-01": 19,
       "2024-05-28": 27,
@@ -294,8 +294,7 @@
       "2023-07-09": 1440,
       "2023-07-08": 1440,
       "2023-07-07": 1440,
-      "2023-07-06": 1440,
-      "2023-07-05": 1440
+      "2023-07-06": 1440
     }
   },
   {
@@ -309,10 +308,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 141,
-    "timeDay": 269,
-    "timeWeek": 163,
-    "timeMonth": 151,
+    "time": 142,
+    "timeDay": 216,
+    "timeWeek": 175,
+    "timeMonth": 153,
     "timeYear": 140,
     "dailyMinutesDown": {
       "2023-10-03": 21
@@ -324,18 +323,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev81946.service-now.com.ico",
     "slug": "instance-81946",
     "status": "down",
-    "uptime": "54.02%",
+    "uptime": "53.91%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "61.30%",
+    "uptimeMonth": "58.01%",
     "uptimeYear": "41.56%",
-    "time": 546,
-    "timeDay": 519,
-    "timeWeek": 337,
-    "timeMonth": 456,
-    "timeYear": 594,
+    "time": 541,
+    "timeDay": 424,
+    "timeWeek": 352,
+    "timeMonth": 446,
+    "timeYear": 593,
     "dailyMinutesDown": {
-      "2024-07-03": 54,
+      "2024-07-04": 54,
+      "2024-07-03": 1440,
       "2024-07-02": 1440,
       "2024-07-01": 1440,
       "2024-06-30": 1440,
@@ -583,8 +583,7 @@
       "2023-07-09": 1440,
       "2023-07-08": 1440,
       "2023-07-07": 528,
-      "2023-07-06": 1082,
-      "2023-07-05": 659
+      "2023-07-06": 1082
     }
   }
 ]
