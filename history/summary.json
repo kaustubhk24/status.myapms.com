@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev.myapms.com.ico",
     "slug": "developer-site",
     "status": "up",
-    "uptime": "22.62%",
+    "uptime": "22.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "25.61%",
-    "time": 778,
-    "timeDay": 709,
-    "timeWeek": 803,
-    "timeMonth": 768,
-    "timeYear": 778,
+    "uptimeYear": "25.89%",
+    "time": 777,
+    "timeDay": 625,
+    "timeWeek": 773,
+    "timeMonth": 759,
+    "timeYear": 777,
     "dailyMinutesDown": {
       "2024-06-01": 19,
       "2024-05-28": 27,
@@ -291,8 +291,7 @@
       "2023-07-12": 1440,
       "2023-07-11": 1440,
       "2023-07-10": 1440,
-      "2023-07-09": 1440,
-      "2023-07-08": 1440
+      "2023-07-09": 1440
     }
   },
   {
@@ -307,9 +306,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 141,
-    "timeDay": 76,
-    "timeWeek": 161,
-    "timeMonth": 150,
+    "timeDay": 130,
+    "timeWeek": 142,
+    "timeMonth": 148,
     "timeYear": 140,
     "dailyMinutesDown": {
       "2023-10-03": 21
@@ -321,18 +320,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev81946.service-now.com.ico",
     "slug": "instance-81946",
     "status": "down",
-    "uptime": "53.70%",
+    "uptime": "53.59%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "51.44%",
-    "uptimeYear": "41.36%",
+    "uptimeMonth": "48.14%",
+    "uptimeYear": "41.30%",
     "time": 541,
-    "timeDay": 335,
-    "timeWeek": 343,
-    "timeMonth": 440,
-    "timeYear": 590,
+    "timeDay": 259,
+    "timeWeek": 320,
+    "timeMonth": 426,
+    "timeYear": 589,
     "dailyMinutesDown": {
-      "2024-07-06": 53,
+      "2024-07-07": 59,
+      "2024-07-06": 1440,
       "2024-07-05": 1440,
       "2024-07-04": 1440,
       "2024-07-03": 1440,
@@ -580,8 +580,7 @@
       "2023-07-12": 708,
       "2023-07-11": 1440,
       "2023-07-10": 1038,
-      "2023-07-09": 1440,
-      "2023-07-08": 1440
+      "2023-07-09": 1440
     }
   }
 ]
