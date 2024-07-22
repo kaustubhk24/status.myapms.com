@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev.myapms.com.ico",
     "slug": "developer-site",
     "status": "up",
-    "uptime": "24.23%",
+    "uptime": "24.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "29.72%",
+    "uptimeYear": "30.00%",
     "time": 773,
-    "timeDay": 751,
-    "timeWeek": 764,
-    "timeMonth": 756,
+    "timeDay": 742,
+    "timeWeek": 766,
+    "timeMonth": 757,
     "timeYear": 773,
     "dailyMinutesDown": {
       "2024-06-01": 19,
@@ -276,8 +276,7 @@
       "2023-07-27": 1440,
       "2023-07-26": 1440,
       "2023-07-25": 1440,
-      "2023-07-24": 1440,
-      "2023-07-23": 1440
+      "2023-07-24": 1440
     }
   },
   {
@@ -291,11 +290,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 141,
-    "timeDay": 190,
-    "timeWeek": 159,
-    "timeMonth": 146,
-    "timeYear": 139,
+    "time": 142,
+    "timeDay": 246,
+    "timeWeek": 170,
+    "timeMonth": 150,
+    "timeYear": 140,
     "dailyMinutesDown": {
       "2023-10-03": 21
     }
@@ -306,18 +305,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev81946.service-now.com.ico",
     "slug": "instance-81946",
     "status": "down",
-    "uptime": "52.14%",
+    "uptime": "52.04%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "2.12%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "40.78%",
-    "time": 538,
-    "timeDay": 407,
-    "timeWeek": 345,
-    "timeMonth": 325,
-    "timeYear": 558,
+    "time": 537,
+    "timeDay": 171,
+    "timeWeek": 333,
+    "timeMonth": 322,
+    "timeYear": 557,
     "dailyMinutesDown": {
-      "2024-07-21": 59,
+      "2024-07-22": 57,
+      "2024-07-21": 1440,
       "2024-07-20": 1440,
       "2024-07-19": 1440,
       "2024-07-18": 1440,
@@ -565,8 +565,7 @@
       "2023-07-27": 1440,
       "2023-07-26": 1440,
       "2023-07-25": 1440,
-      "2023-07-24": 1440,
-      "2023-07-23": 1440
+      "2023-07-24": 1440
     }
   }
 ]
