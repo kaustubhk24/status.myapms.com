@@ -5,10 +5,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev.myapms.com.ico",
     "slug": "developer-site",
     "status": "down",
-    "uptime": "36.35%",
+    "uptime": "36.31%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "49.47%",
+    "uptimeMonth": "46.19%",
     "uptimeYear": "69.90%",
     "time": 769,
     "timeDay": 0,
@@ -16,7 +16,8 @@
     "timeMonth": 817,
     "timeYear": 769,
     "dailyMinutesDown": {
-      "2024-12-30": 65,
+      "2024-12-31": 63,
+      "2024-12-30": 1440,
       "2024-12-29": 1440,
       "2024-12-28": 1440,
       "2024-12-27": 1440,
@@ -131,8 +132,7 @@
       "2024-01-05": 1440,
       "2024-01-04": 1440,
       "2024-01-03": 1440,
-      "2024-01-02": 1440,
-      "2024-01-01": 1440
+      "2024-01-02": 1440
     }
   },
   {
@@ -141,18 +141,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/docs.myapms.com.ico",
     "slug": "documentation-site",
     "status": "down",
-    "uptime": "98.26%",
+    "uptime": "98.15%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "49.47%",
-    "uptimeYear": "95.79%",
+    "uptimeMonth": "46.19%",
+    "uptimeYear": "95.52%",
     "time": 146,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 205,
     "timeYear": 149,
     "dailyMinutesDown": {
-      "2024-12-30": 65,
+      "2024-12-31": 63,
+      "2024-12-30": 1440,
       "2024-12-29": 1440,
       "2024-12-28": 1440,
       "2024-12-27": 1440,
@@ -177,18 +178,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev81946.service-now.com.ico",
     "slug": "instance-81946",
     "status": "down",
-    "uptime": "39.76%",
+    "uptime": "39.70%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "32.50%",
-    "time": 522,
+    "time": 523,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 466,
     "dailyMinutesDown": {
-      "2024-12-30": 65,
+      "2024-12-31": 63,
+      "2024-12-30": 1440,
       "2024-12-29": 1440,
       "2024-12-28": 1440,
       "2024-12-27": 1440,
@@ -443,8 +445,7 @@
       "2024-01-05": 1440,
       "2024-01-04": 1440,
       "2024-01-03": 1440,
-      "2024-01-02": 1440,
-      "2024-01-01": 1440
+      "2024-01-02": 1440
     }
   }
 ]
