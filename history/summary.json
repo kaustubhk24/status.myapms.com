@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev.myapms.com.ico",
     "slug": "developer-site",
     "status": "down",
-    "uptime": "31.14%",
+    "uptime": "31.11%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "55.23%",
+    "uptimeYear": "54.96%",
     "time": 769,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 767,
+    "timeYear": 766,
     "dailyMinutesDown": {
-      "2025-05-27": 73,
+      "2025-05-28": 74,
+      "2025-05-27": 1440,
       "2025-05-26": 1440,
       "2025-05-25": 1440,
       "2025-05-24": 1440,
@@ -181,8 +182,7 @@
       "2024-12-16": 1440,
       "2024-12-15": 1440,
       "2024-12-14": 469,
-      "2024-06-01": 19,
-      "2024-05-28": 27
+      "2024-06-01": 19
     }
   },
   {
@@ -191,18 +191,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/docs.myapms.com.ico",
     "slug": "documentation-site",
     "status": "down",
-    "uptime": "84.20%",
+    "uptime": "84.12%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "55.24%",
+    "uptimeYear": "54.97%",
     "time": 151,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 158,
     "dailyMinutesDown": {
-      "2025-05-27": 73,
+      "2025-05-28": 74,
+      "2025-05-27": 1440,
       "2025-05-26": 1440,
       "2025-05-25": 1440,
       "2025-05-24": 1440,
@@ -375,7 +376,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev81946.service-now.com.ico",
     "slug": "instance-81946",
     "status": "down",
-    "uptime": "32.66%",
+    "uptime": "32.62%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -386,7 +387,8 @@
     "timeMonth": 0,
     "timeYear": 379,
     "dailyMinutesDown": {
-      "2025-05-27": 73,
+      "2025-05-28": 74,
+      "2025-05-27": 1440,
       "2025-05-26": 1440,
       "2025-05-25": 1440,
       "2025-05-24": 1440,
@@ -728,8 +730,7 @@
       "2024-06-22": 1440,
       "2024-06-21": 1058,
       "2024-06-02": 218,
-      "2024-06-01": 688,
-      "2024-05-28": 766
+      "2024-06-01": 688
     }
   }
 ]
